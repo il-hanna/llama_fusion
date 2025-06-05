@@ -15,7 +15,7 @@ renamed as (
         sku as product_id,
 
         ---------- text
-        name as product_name,
+        name as product_nme,
         type as product_type,
         description as product_description,
 
